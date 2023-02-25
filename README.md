@@ -1,5 +1,5 @@
 # Food-WebSite
-Responsive website was created using HTML &amp; CSS & JS. And I have used "Swiper" too for all sliders except the gallery it was created with vanilla JavaScript
+Responsive website was created using HTML &amp; CSS & JS. And I have used "Swiper" for all sliders except the gallery it was created with vanilla JavaScript.
 
 ## Links
 - [Repo] (<https://github.com/ahmedalifarajallah/Food/> "Food")
